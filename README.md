@@ -1,7 +1,7 @@
-<H3>Name : Karnan</H3>
+<H3>Name : Karnan K</H3>
 <H3>Register No: 212222230062</H3>
 <H3>Experiment 2</H3>
-<H3>Date</H3>
+<H3>Date:</H3>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
 
 ## Aim:
@@ -82,6 +82,8 @@ res2=inference.query(variables=[query],evidence=evidence2)
 print(res2)
 ```
 ## Output :
+![Screenshot 2024-09-11 142045](https://github.com/user-attachments/assets/a31b7ef9-2b3d-42df-8fb2-7bfd8bed1a4a)
+
 
 ![Screenshot 2024-09-11 142054](https://github.com/user-attachments/assets/13b49d28-e0e4-4624-9d3a-0a328e1ce263)
 
